@@ -1,0 +1,29 @@
+{
+  "name": "number-formatter",
+  "version": "0.0.1",
+  "description": "Number formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umairjameel321/number-formatter.git"
+  },
+  "keywords": [
+    "numberformatter"
+  ],
+  "author": "Umair Jameel <umairjameel321@gmail.com> (https://github.com/umairjameel321)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umairjameel321/number-formatter/issues"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "homepage": "https://github.com/umairjameel321/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  }
+}
