@@ -6,7 +6,7 @@ A small library that adds commas to numbers
 
 ## Usage
 
-    var numFormatter = require('@umairjameel321/number-formatter');
+    var numFormatter = require('@umairjameel/number-formatter');
 
     var formattedNum = numFormatter(35666);
   
